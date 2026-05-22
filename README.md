@@ -23,7 +23,3 @@ Here are some ideas to get you started:
 
 ##### My Social Media 📳
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayhan.yoga_/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gabutajew) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryhnyoga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-yoga-548ab128a/)
-
-##### Play With Me 🕹️
-
-<img src="https://raw.githubusercontent.com/sibabayoga/sibabayoga/output/snake.svg" alt="Snake animation" />
